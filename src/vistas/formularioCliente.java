@@ -401,7 +401,6 @@ public class formularioCliente extends javax.swing.JFrame {
             }
 
             ventanaResultado.resultadoImagen.setIcon(emoji);
-            ventanaResultado.setResizable(false);
             ventanaResultado.setLocationRelativeTo(null);
             ventanaResultado.setVisible(true);
         }
